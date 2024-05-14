@@ -1,4 +1,4 @@
-# Ticket system into a learning platform
+# Ticket system for a learning platform
 
 ## Project setup
 ```

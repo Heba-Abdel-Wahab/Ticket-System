@@ -1,4 +1,4 @@
-# intence
+# Ticket system into a learning platform
 
 ## Project setup
 ```
